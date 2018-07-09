@@ -1,0 +1,2 @@
+# neural-networks-and-deep-learning-coursera
+This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions. This is the first course of the Deep Learning Specialization.
